@@ -9,7 +9,4 @@ def mul(x,y):
     return x*y
 #div implentation
 def div(x,y):
-    if y==0:
-       return DIVIDE_BY_0_ERROR
-    else:
-       return x/y
+    return x/y
